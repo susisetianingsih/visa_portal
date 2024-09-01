@@ -4,6 +4,7 @@
 
 ## User Requirements
 <p> There are three system users, including admin, vendor, and guest.</p> 
+
 A. **Admin: GRC Lead**
 1. Admin can log into the system.
 2. Admin can change password.
@@ -31,15 +32,23 @@ C. **Guest: Internal**
 
 ## System Development
 <p>Tools used in creating the system include:</p>
+
 A. **Development environtment:** Laragon is used to provides a local development environment.
+
 B. **IDE:** Visual Studio Code is code editor with extensive development features.
+
 C. **Database:**
   - MySQL is used a relational database management system.
   - DBeaver is used to database management tool and SQL client.
+
 D. **Web Framework:** Laravel is PHP web framework for web application development.
+
 E. **CSS Framework:** Tailwind is utility-first CSS framework for custom designs.
+
 F. **Javascript Framework:** Alpine.js is lightweight JavaScript framework for interactivity.
+
 G. **Web Server:** Nginx is high-performance web server and reverse proxy server.
+
 H. **Design tool:** Figma is used for system design such as user interface (UI) and wireframes. (wareframe link)
 
 ## Documentation
