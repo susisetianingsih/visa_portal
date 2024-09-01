@@ -1,9 +1,9 @@
 ## Project Descriptions
 
-The VISA (Vendor Information Security Assessment) Portal represents an evolution of Companiy's existing assessment system, designed to provide a more comprehensive and efficient evaluation process. This application was created using the Laravel Framework with a MySQL database. This project is part of the results of my internship at Halodoc. My role in this project is Full Stack Developer.
+<p> The VISA (Vendor Information Security Assessment) Portal represents an evolution of Companiy's existing assessment system, designed to provide a more comprehensive and efficient evaluation process. This application was created using the Laravel Framework with a MySQL database. This project is part of the results of my internship at Halodoc. My role in this project is Full Stack Developer. </p> 
 
 ## User Requirements
-There are three system users, including admin, vendor, and guest.
+<p> There are three system users, including admin, vendor, and guest.</p> 
 A. **Admin: GRC Lead**
 1. Admin can log into the system.
 2. Admin can change password.
@@ -30,6 +30,7 @@ C. **Guest: Internal**
 4. Guest can download vendor assessment results.
 
 ## System Development
+<p>Tools used in creating the system include:</p>
 A. **Development environtment:** Laragon is used to provides a local development environment.
 B. **IDE:** Visual Studio Code is code editor with extensive development features.
 C. **Database:**
@@ -40,3 +41,6 @@ E. **CSS Framework:** Tailwind is utility-first CSS framework for custom designs
 F. **Javascript Framework:** Alpine.js is lightweight JavaScript framework for interactivity.
 G. **Web Server:** Nginx is high-performance web server and reverse proxy server.
 H. **Design tool:** Figma is used for system design such as user interface (UI) and wireframes. (wareframe link)
+
+## Documentation
+<img src="demo-image/login-desktop.png" alt="Login Desktop" width="200"/>
