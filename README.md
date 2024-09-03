@@ -52,9 +52,19 @@ G. **Web Server:** Nginx is high-performance web server and reverse proxy server
 H. **Design tool:** Figma is used for system design such as user interface (UI) and wireframes. (wareframe link)
 
 ## ✍️ Documentation
+
+A. Desktop
 1. Login
 <img src="demo_image/login-desktop.png" alt="Login" width="800"/>
 2. Dashboard
 <img src="demo_image/dashboard-desktop.png" alt="Dashboard" width="800"/>
 3. Result
 <img src="demo_image/result-desktop.png" alt="Result" width="800"/>
+
+B. Mobile
+1. Login
+<img src="demo_image/login-mobile.png" alt="Login" width="800"/>
+2. Dashboard
+<img src="demo_image/dashboard-mobile.png" alt="Dashboard" width="800"/>
+3. Result
+<img src="demo_image/result-mobile.png" alt="Result" width="800"/>
