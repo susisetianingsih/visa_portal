@@ -63,8 +63,8 @@ A. Desktop
 
 B. Mobile
 1. Login
-<img src="demo_image/login-mobile.png" alt="Login" width="800"/>
+<img src="demo_image/login-mobile.png" alt="Login" width="200"/>
 2. Dashboard
-<img src="demo_image/dashboard-mobile.png" alt="Dashboard" width="800"/>
+<img src="demo_image/dashboard-mobile.png" alt="Dashboard" width="200"/>
 3. Result
-<img src="demo_image/result-mobile.png" alt="Result" width="800"/>
+<img src="demo_image/result-mobile.png" alt="Result" width="200"/>
