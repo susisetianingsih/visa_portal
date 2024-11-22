@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="motion_logo.png" alt="Project Logo" width="300">
+</div>
+
 ## ✨ Project Descriptions 
 
 <p> The VISA (Vendor Information Security Assessment) Portal represents an evolution of Companiy's existing assessment system, designed to provide a more comprehensive and efficient evaluation process. This application was created using the Laravel Framework with a MySQL database. This project is part of the results of my internship at Halodoc. My role in this project is Full Stack Developer. </p> 
